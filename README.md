@@ -2,7 +2,7 @@ TravelTrek – Smart Travel & Trekking Planner
 A modern web application that helps users discover the best travel destinations, trekking routes,
 and budget-friendly tour plans — all in one place.
 
-Project Overview
+Project Overview :
 TravelTrek simplifies travel planning by combining trekking insights, travel options, best time to visit, and budget estimation.
 
 Key Features
@@ -11,7 +11,7 @@ Key Features
 - Best season insights
 - Budget recommendations- Responsive design
   
-Tech Stack
+Tech Stack : 
 HTML, CSS, JavaScript
 
 What I Learned
